@@ -5,7 +5,9 @@ hieght = "three"
 var age = 25
 hieght = 4000
 let id; // undefined
-id=9000
+id = 9000
+money = 2000
+
 
 
 console.table([name, money, age, hieght, id]);
